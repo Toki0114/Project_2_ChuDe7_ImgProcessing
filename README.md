@@ -29,7 +29,7 @@ xu_ly_anh/
 └── project2_nang_cao_chat_luong/
 ```
 
-## Công thức 6 kỹ thuật (dùng cho báo cáo)
+## Công thức 6 kỹ thuật
 
 | Kỹ thuật | Công thức / ý tưởng | Tham số điều chỉnh |
 |---|---|---|
